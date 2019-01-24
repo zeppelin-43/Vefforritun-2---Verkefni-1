@@ -54,7 +54,7 @@ Til að byrja er hægt að afrita þetta repo og bæta við á sínu eigin:
 
 ## Mat
 
-* 10% – Snyrtilegur kóði, engar villur þegar `npm test` er keyrt
+* 10% – Snyrtilegur kóði, engar villur þegar `npm run eslint` er keyrt
 * 40% – Fyrirlestralisti
 * 40% – Fyrirlestur með efni
 * 10% – Villumeðhöndlun
@@ -81,4 +81,9 @@ Verkefnahluti gildir 60% og lokapróf gildir 40%. Ná verður *bæði* verkefnah
 
 ---
 
-> Útgáfa 0.1
+> Útgáfa 0.2
+
+| Útgáfa | Lýsing                                    |
+|--------|-------------------------------------------|
+| 0.1    | Fyrsta útgáfa                             |
+| 0.2    | Breyta `npm test` yfir í `npm run eslint` |
